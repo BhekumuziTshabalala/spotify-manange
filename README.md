@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Spotify manager
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Weblink
+https://spotifymananger.netlify.app/
 
 ## Available Scripts
 
